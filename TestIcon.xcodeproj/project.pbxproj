@@ -17,7 +17,6 @@
 		89054134258E9AF0006EB5B3 /* TestIconUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89054133258E9AF0006EB5B3 /* TestIconUITests.swift */; };
 		89054149258E9B21006EB5B3 /* Icon-red@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89054145258E9B21006EB5B3 /* Icon-red@3x.png */; };
 		8905414A258E9B21006EB5B3 /* Icon-red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89054146258E9B21006EB5B3 /* Icon-red@2x.png */; };
-		8912EF11258F94EB00C7FDF3 /* finalNewIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8912EF10258F94EB00C7FDF3 /* finalNewIcon.swift */; };
 		89171862259155C5007DCF2D /* RealtimeIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89171861259155C5007DCF2D /* RealtimeIcon.swift */; };
 		892A6AA72593AD9B0097F755 /* Icon-blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892A6AA52593AD9A0097F755 /* Icon-blue@2x.png */; };
 		892A6AA82593AD9B0097F755 /* Icon-blue@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892A6AA62593AD9A0097F755 /* Icon-blue@3x.png */; };
@@ -64,7 +63,6 @@
 		89054135258E9AF0006EB5B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		89054145258E9B21006EB5B3 /* Icon-red@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-red@3x.png"; sourceTree = "<group>"; };
 		89054146258E9B21006EB5B3 /* Icon-red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-red@2x.png"; sourceTree = "<group>"; };
-		8912EF10258F94EB00C7FDF3 /* finalNewIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = finalNewIcon.swift; sourceTree = "<group>"; };
 		89171861259155C5007DCF2D /* RealtimeIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealtimeIcon.swift; sourceTree = "<group>"; };
 		892A6AA52593AD9A0097F755 /* Icon-blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-blue@2x.png"; sourceTree = "<group>"; };
 		892A6AA62593AD9A0097F755 /* Icon-blue@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-blue@3x.png"; sourceTree = "<group>"; };
@@ -146,7 +144,6 @@
 				8905411C258E9AEF006EB5B3 /* LaunchScreen.storyboard */,
 				8905411F258E9AEF006EB5B3 /* Info.plist */,
 				89171861259155C5007DCF2D /* RealtimeIcon.swift */,
-				8912EF10258F94EB00C7FDF3 /* finalNewIcon.swift */,
 			);
 			path = TestIcon;
 			sourceTree = "<group>";
@@ -439,7 +436,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8912EF11258F94EB00C7FDF3 /* finalNewIcon.swift in Sources */,
 				89054116258E9AEE006EB5B3 /* ViewController.swift in Sources */,
 				89171862259155C5007DCF2D /* RealtimeIcon.swift in Sources */,
 				89054112258E9AEE006EB5B3 /* AppDelegate.swift in Sources */,
